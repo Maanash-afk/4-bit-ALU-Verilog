@@ -40,10 +40,9 @@ The 3-bit select input provides 8 possible operation selections.
 
 ## Tools Used
 
-* Verilog HDL
-* Xilinx ISE
-* ISim
-
+- Xilinx ISE 7.1
+- ModelSim
+- Verilog HDL
 ## Simulation
 
 The ALU was simulated using a Verilog testbench. Different input combinations and select values were applied to verify the implemented operations.
