@@ -5,8 +5,8 @@
 // Engineer:
 //
 // Create Date:   00:20:07 08/13/2026
-// Design Name:   ALU056
-// Module Name:   ALU056_tb.v
+// Design Name:   ALU
+// Module Name:   ALU_tb.v
 // Project Name:  ALU
 // Target Device:  
 // Tool versions:  
