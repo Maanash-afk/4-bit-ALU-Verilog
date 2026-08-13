@@ -54,11 +54,11 @@ The waveform obtained from the simulation is included in this repository.
 
 ### ALU Design - 1
 
-![ALU Design 1](ALU_design_1.png)
+ALU_design.png 1
 
 ### ALU Design - 2
 
-![ALU Design 2](ALU_design_2.png)
+ALU_design.png 2
 
 ## Simulation Waveform
 
