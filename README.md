@@ -54,11 +54,12 @@ The waveform obtained from the simulation is included in this repository.
 
 ### ALU Design - 1
 
-ALU_design.png 1
+<img width="817" height="567" alt="ALU_design png 1" src="https://github.com/user-attachments/assets/ff627795-bf02-48c0-b8e6-d3fe96d13681" />
 
 ### ALU Design - 2
 
-ALU_design.png 2
+<img width="722" height="397" alt="ALU_design png 2" src="https://github.com/user-attachments/assets/05c4fa4c-714b-4411-bb99-b9671a82a8e9" />
+
 
 ## Simulation Waveform
 
