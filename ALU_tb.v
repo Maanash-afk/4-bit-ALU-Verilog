@@ -33,7 +33,7 @@ module ALU_tb_v;
 	wire [3:0] y;
 
 	// Instantiate the Unit Under Test (UUT)
-	ALU056 uut (
+	ALU uut (
 		.a(a), 
 		.b(b), 
 		.s(s), 
