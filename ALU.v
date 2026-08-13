@@ -5,7 +5,7 @@
 //
 // Create Date:    22:56:53 08/12/26
 // Design Name:    
-// Module Name:    ALU056
+// Module Name:    ALU
 // Project Name:   
 // Target Device:  
 // Tool versions:  
